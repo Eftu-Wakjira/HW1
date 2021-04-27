@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="edit_message" translatable="false">Enter a Name</string>
+    <string name="button_send" translatable="false">Send</string>
+    <string name="button_Menu" translatable="false">Menu</string>
+    <string name="button_help" translatable="false">Help</string>
+    <string name="button_New" translatable="false">New</string>
+    <string name="button_Reset" translatable="false">Reset</string>
+</resources>
